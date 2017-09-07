@@ -1,7 +1,4 @@
 @media (max-width: 980px){
-    body { 
-       background: blue;
-    }
     .main-section{
         width:60%;
     }
@@ -13,12 +10,10 @@
     }
 }
 @media (max-width: 768px){
-    body { 
-        background: green; 
-    }
     .logo{
         width:50%;
         margin-top:40px;
+        height:100%;
     }
     .main-section {
         width:100%;
@@ -32,9 +27,6 @@
 }
 
 @media (max-width: 640px){
-    body { 
-        background: red; 
-    }
     #top{
         width:100%;
     }
